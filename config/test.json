@@ -1,0 +1,11 @@
+{
+    "database": {
+        "name": "nodeTDD",
+        "username": "user",
+        "password": "password",
+        "host": "localhost",
+        "dialect": "sqlite",
+        "storage": "../test.sqlite"
+    }
+  
+}
