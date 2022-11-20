@@ -13,6 +13,12 @@ User.init(
     password: {
       type: Sequelize.STRING,
     },
+    phone_number: {
+      type: Sequelize.STRING,
+    },
+    gender: {
+      type: Sequelize.STRING,
+    },
   },
   {
     sequelize,

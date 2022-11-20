@@ -5,7 +5,7 @@
         "password": "password",
         "host": "localhost",
         "dialect": "sqlite",
-        "storage": "../test.sqlite"
+        "storage": "./test.sqlite"
     }
   
 }
